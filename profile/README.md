@@ -1,6 +1,5 @@
-# Repository for all things northern contingent mackerel
+# Repository for all things northern contingent mackerel assessment
 
-For the assessment:
 
 ## Model
 (0.0 for the model)
